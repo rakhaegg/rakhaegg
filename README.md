@@ -11,4 +11,4 @@ I'm developer and computer sciebnce
 <!--END_SECTION:waka-->
 
 Social Media : 
-- Blog - 
+- Blog - https://medium.com/@rakhae.g
