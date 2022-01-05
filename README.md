@@ -8,9 +8,9 @@ I'm developer and computer sciebnce
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,7 +46,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
 Social Media : 
