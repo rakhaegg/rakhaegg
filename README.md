@@ -8,7 +8,7 @@ I'm C\C++ Developer. So I hope you enjoy with my repository.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,16 +16,16 @@ I'm C\C++ Developer. So I hope you enjoy with my repository.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C                        39 hrs 27 mins      █████████████████████████   99.96% 
+C                        39 hrs 41 mins      █████████████████████████   99.96% 
 ca65 assembler           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  39 hrs 28 mins      █████████████████████████   100.0%
+VS Code                  39 hrs 41 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  39 hrs 28 mins      █████████████████████████   100.0%
+Windows                  39 hrs 41 mins      █████████████████████████   100.0%
 
 ```
 
@@ -42,7 +42,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2022
+ Last Updated on 20/01/2022
 <!--END_SECTION:waka-->
 
 Social Media : 
