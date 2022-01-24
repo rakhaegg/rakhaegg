@@ -8,7 +8,7 @@ I'm C\C++ Developer. So I hope you enjoy with my repository.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,7 +41,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2022 00:24:48 UTC
+ Last Updated on 24/01/2022 00:24:31 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
