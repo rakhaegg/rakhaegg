@@ -16,14 +16,13 @@ I'm C\C++ Developer. So I hope you enjoy with my repository.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               34 mins             ███████████████████░░░░░░   79.24% 
-HTML                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.76%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -40,7 +39,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2022 00:32:31 UTC
+ Last Updated on 01/03/2022 00:32:14 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
