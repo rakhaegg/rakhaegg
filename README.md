@@ -18,13 +18,13 @@ I'm C\C++ Developer. So I hope you enjoy with my repository.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 57 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -41,7 +41,7 @@ Go                       6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2022 00:43:14 UTC
+ Last Updated on 24/07/2022 00:46:30 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
