@@ -18,13 +18,14 @@ I'm C\C++ Developer. So I hope you enjoy with my repository.
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              ████████████████████████░   95.96% 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -41,7 +42,7 @@ Jupyter Notebook         7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2022 00:45:40 UTC
+ Last Updated on 27/07/2022 00:45:56 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
