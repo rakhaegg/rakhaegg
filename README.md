@@ -3,7 +3,6 @@ Hi I'm Rakha Elanag
 
 [![rakhaegg github stats](https://github-readme-stats.vercel.app/api?username=rakhaegg)](https://github.com/rakhaegg/rakhaegg)
 
-I'm C\C++ Developer. So I hope you enjoy with my repository. 
 
 
 
