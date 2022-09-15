@@ -7,29 +7,9 @@ Hi I'm Rakha Elanag
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-JavaScript               19 hrs 40 mins      ███████████████████░░░░░░   77.69% 
-HTML                     3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
-Text                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.84% 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
-
-🔥 Editors: 
-VS Code                  25 hrs 19 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  25 hrs 19 mins      █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -44,7 +24,7 @@ Jupyter Notebook         8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 00:47:44 UTC
+ Last Updated on 15/09/2022 00:53:53 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
