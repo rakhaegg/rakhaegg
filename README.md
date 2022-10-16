@@ -7,7 +7,7 @@ Hi I'm Rakha Elanag
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,7 +44,7 @@ Jupyter Notebook         8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2022 00:57:13 UTC
+ Last Updated on 16/10/2022 00:59:29 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
