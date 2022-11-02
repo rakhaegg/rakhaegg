@@ -40,7 +40,7 @@ Jupyter Notebook         8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2022 00:58:31 UTC
+ Last Updated on 02/11/2022 00:53:39 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
