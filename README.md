@@ -17,13 +17,16 @@ Hi I'm Rakha Elanag
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      40 mins             ██████████░░░░░░░░░░░░░░░   41.97% 
+HTML                     29 mins             ███████░░░░░░░░░░░░░░░░░░   30.21% 
+JavaScript               22 mins             █████░░░░░░░░░░░░░░░░░░░░   23.46% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.36%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 36 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 36 mins        █████████████████████████   100.0%
 
 ```
 
@@ -40,7 +43,7 @@ Jupyter Notebook         8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2022 00:53:39 UTC
+ Last Updated on 03/11/2022 00:48:13 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
