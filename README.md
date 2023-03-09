@@ -29,17 +29,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Jupyter Notebook         8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Java                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Jupyter Notebook         8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+PowerShell               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 
 
 
- Last Updated on 08/03/2023 00:40:53 UTC
+ Last Updated on 09/03/2023 00:40:29 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
