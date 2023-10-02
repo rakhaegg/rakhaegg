@@ -9,7 +9,7 @@ Hi I'm Rakha Elanag
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,7 +39,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2023 00:36:55 UTC
+ Last Updated on 02/10/2023 00:32:33 UTC
 <!--END_SECTION:waka-->
 
 Social Media : 
